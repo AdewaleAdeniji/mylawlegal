@@ -8,6 +8,10 @@
 			@Import	Mixins
 	===============================
 */
+
+.card {
+    margin: 2vh;
+}
 html {
   min-height: 100%; }
 
