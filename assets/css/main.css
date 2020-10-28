@@ -10,7 +10,7 @@
 */
 
 .card {
-    margin: 1vh;
+    margin: 1vh !important;
 }
 html {
   min-height: 100%; }
