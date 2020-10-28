@@ -1,0 +1,17 @@
+{
+  "short_name": "MyLawLegal",
+  "name": "MyLawLegal Dashboard",
+  "icons": [
+   
+    {
+      "src": "assets/images/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#01011b",
+  "background_color": "#ffffff",
+  "orientation":"portrait-primary"
+}
